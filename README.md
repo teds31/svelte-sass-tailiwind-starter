@@ -1,6 +1,6 @@
 # SvelteJS with Sass and TailwindCSS
 
-This is based on the works of https://github.com/sarioglu Svelte and TailwindCSS starter as he was able to solve a lot of the problems the general setup had and I simply added Sass so we can nest. Though you cannot use the typical Sass variables with TailwindCSS, it's encouraged to utilize the TailwindCSS config file to set up your design system. 
+This is based on the works of https://github.com/sarioglu Svelte and TailwindCSS starter as he was able to solve a lot of the problems the general setup had and I simply added Sass so we can nest and lazy loading images for SEO perks (thanks to https://github.com/leafOfTree/svelte-lazy). Though you cannot use the typical Sass variables with TailwindCSS, it's encouraged to utilize the TailwindCSS config file to set up your design system. 
 
 This starter also works well if you have accss to the TailwindUI components that have just come out recently (https://tailwindui.com/). 
 
